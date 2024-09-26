@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ykpwfct.github.io/sitemap.ykpwfct.gz
+Sitemap: https://ykpwfct.github.io/app/sitemap.ykpwfct.gz
+Sitemap: https://ykpwfct.github.io/assets/sitemap.ykpwfct.gz
+Sitemap: https://ykpwfct.github.io/css/sitemap.ykpwfct.gz
+Sitemap: https://ykpwfct.github.io/data/sitemap.ykpwfct.gz
+Sitemap: https://ykpwfct.github.io/includes/sitemap.ykpwfct.gz
+Sitemap: https://ykpwfct.github.io/item/sitemap.ykpwfct.gz
+Sitemap: https://ykpwfct.github.io/src/sitemap.ykpwfct.gz
